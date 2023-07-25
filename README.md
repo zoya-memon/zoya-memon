@@ -77,5 +77,5 @@
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=zoya-memon)
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=zoya-memon)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoya-memon&show_icons=true&theme=dark)  
-![GitHub metrics](https://metrics.lecoq.io/fahad-qureshi786)  
+![GitHub metrics](https://metrics.lecoq.io/zoya-memon)  
 ![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=zoya-memon)  
