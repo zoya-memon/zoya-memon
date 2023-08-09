@@ -6,11 +6,7 @@
     to polish up my skills. I achived a handsome score around 86.5% in my degree.
 ###  Professional Side:
     I started my Professional Career as Junior Software Engineer since start of 4th Semester in my Graduation in Software Industary.
-    Mean-while Software Engineer at Idea 2 Product Software Company at Sukkur Pakistan. 
-    After having a handsome experience from reputed software house, now I have my own best team and startup of more than 10 developers contributing and         providing services with mentioned technologies below
-    > For front end I am using React JS, Next.Js with cool advance libraries according to customers demand.
-    For backend I use Java(Spring boot), Spring boot Microservices (Load Balancers etc)
-    I believe that hardwork and passion can pay you back. I have reaped results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in community because I believe that sharing is caring.
+    Mean-while Software Engineer at perfekt solution at Sukkur Pakistan. 
 ### My Work and projects
     * Data analysis and operations on existing data with JS Graphical Interfaces with Spring boot as a backend services.
     * POS Product deployed in more than 5 places in Markeet.
